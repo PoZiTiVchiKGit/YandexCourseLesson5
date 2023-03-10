@@ -31,7 +31,4 @@ public class CoinsPresenter : MonoBehaviour
         _coins.OnValueChanged -= OnAmountChanged;
     }
 
-
-
-
 }
